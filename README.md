@@ -4,6 +4,7 @@ Collection of awesome tools built for HTTP/2.
 ## Categories
 - [Browser Extensions](#browser-extensions)
 - [Command Line tools](#command-line-tools)
+- [Demos](#demos)
 - [Middleware](#middleware)
 
 ### Browser Extensions
@@ -20,7 +21,14 @@ Collection of awesome tools built for HTTP/2.
 - [h2spec](https://github.com/summerwind/h2spec) - A conformance testing tool for HTTP/2 implementation.
 - [http2fuzz](https://github.com/c0nrad/http2fuzz) - Semi-intelligent fuzzer built on Go.
 - [is-http2-cli](https://github.com/stefanjudis/is-http2-cli) - Node.js CLI module to check HTTP/2 support on a domain.
-- [h2load](https://nghttp2.org/documentation/h2load.1.html) - Benchmarking tool for HTTP/2 and SPDY server
+- [h2load](https://nghttp2.org/documentation/h2load.1.html) - Benchmarking tool for HTTP/2 and SPDY server.
+
+### Demos
+- [Akamai](https://http2.akamai.com/demo)
+- [Cloudflare](https://www.cloudflare.com/http2/)
+- [CDN77](http://www.http2demo.io/)
+- [Load Impact](http://http2.httptwo.com/entry/)
+- [Go Language](https://http2.golang.org/)
 
 ### Middleware
 
