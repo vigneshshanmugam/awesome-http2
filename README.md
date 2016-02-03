@@ -1,11 +1,13 @@
 # awesome-http2
-Collection of awesome tools built for HTTP/2.
+Collection of awesome things for HTTP/2.
 
 ## Categories
 - [Browser Extensions](#browser-extensions)
 - [Command Line tools](#command-line-tools)
+- [Online tools](#online-tools)
 - [Demos](#demos)
 - [Middleware](#middleware)
+- [Statistics](#statistics)
 
 ### Browser Extensions
 
@@ -23,6 +25,9 @@ Collection of awesome tools built for HTTP/2.
 - [is-http2-cli](https://github.com/stefanjudis/is-http2-cli) - Node.js CLI module to check HTTP/2 support on a domain.
 - [h2load](https://nghttp2.org/documentation/h2load.1.html) - Benchmarking tool for HTTP/2 and SPDY server.
 
+### Online Tools
+
+
 ### Demos
 - [Akamai](https://http2.akamai.com/demo)
 - [Cloudflare](https://www.cloudflare.com/http2/)
@@ -34,4 +39,7 @@ Collection of awesome tools built for HTTP/2.
 
 - [koa-server-push](https://github.com/silenceisgolden/koa-server-push) - HTTP2 Server Push middleware for Koa
 
+### Statistics
+- [HTTP/2 Dashboard](http://isthewebhttp2yet.com/measurements/overview.html)
+- [W3Techs](http://w3techs.com/technologies/details/ce-http2/all/all)
 
