@@ -7,6 +7,7 @@ Collection of awesome things for HTTP/2.
 - [Online tools](#online-tools)
 - [Demos](#demos)
 - [Middleware](#middleware)
+- [Load Test](#load-test)
 - [Statistics](#statistics)
 
 ### Browser Extensions
@@ -23,7 +24,6 @@ Collection of awesome things for HTTP/2.
 - [h2spec](https://github.com/summerwind/h2spec) - A conformance testing tool for HTTP/2 implementation.
 - [http2fuzz](https://github.com/c0nrad/http2fuzz) - Semi-intelligent fuzzer built on Go.
 - [is-http2-cli](https://github.com/stefanjudis/is-http2-cli) - Node.js CLI module to check HTTP/2 support on a domain.
-- [h2load](https://nghttp2.org/documentation/h2load.1.html) - Benchmarking tool for HTTP/2 and SPDY server.
 
 ### Online Tools
 - [HTTP/2 Test by KeyCDN](https://tools.keycdn.com/http2-test)
@@ -38,6 +38,9 @@ Collection of awesome things for HTTP/2.
 ### Middleware
 
 - [koa-server-push](https://github.com/silenceisgolden/koa-server-push) - HTTP2 Server Push middleware for Koa
+
+### Load Test
+- [h2load](https://nghttp2.org/documentation/h2load.1.html) - Benchmarking tool for HTTP/2 and SPDY.
 
 ### Statistics
 - [HTTP/2 Dashboard](http://isthewebhttp2yet.com/measurements/overview.html)
