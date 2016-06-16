@@ -4,6 +4,7 @@ Collection of awesome things for HTTP/2.
 ## Categories
 - [Browser Extensions](#browser-extensions)
 - [Command Line tools](#command-line-tools)
+- [Development](#development)
 - [Online tools](#online-tools)
 - [Demos](#demos)
 - [Middleware](#middleware)
@@ -18,7 +19,7 @@ Collection of awesome things for HTTP/2.
 - [HTTP/2 and SPDY Indication](https://chrome.google.com/webstore/detail/http2-and-spdy-indicator/mpbpobfflnpcgagjijhmgnchggcjblin)
 
 ### Command Line Tools
-
+- [curl](https://curl.haxx.se/docs/http2.html)
 - [h2a](https://github.com/summerwind/h2a) - Debugging reverse proxy for HTTP/2 developers
 - [h2c](https://github.com/fstab/h2c) - Simple HTTP/2 command-line client, like curl.
 - [h2i](https://github.com/golang/net/tree/master/http2/h2i) - Interactive HTTP/2 console debugger.
@@ -26,6 +27,9 @@ Collection of awesome things for HTTP/2.
 - [h2spec](https://github.com/summerwind/h2spec) - A conformance testing tool for HTTP/2 implementation.
 - [http2fuzz](https://github.com/c0nrad/http2fuzz) - Semi-intelligent fuzzer built on Go.
 - [is-http2-cli](https://github.com/stefanjudis/is-http2-cli) - Node.js CLI module to check HTTP/2 support on a domain.
+
+### Development
+- [simplehttp2server](https://github.com/GoogleChrome/simplehttp2server) - Server for development purpsose.
 
 ### Online Tools
 - [HTTP/2 Test by KeyCDN](https://tools.keycdn.com/http2-test)
