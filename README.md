@@ -47,6 +47,7 @@ Collection of awesome things for HTTP/2.
 
 ### Load Test
 - [h2load](https://nghttp2.org/documentation/h2load.1.html) - Benchmarking tool for HTTP/2 and SPDY.
+- [jmeter](https://github.com/syucream/jmeter-http2-plugin) - Jmeter HTTP/2 sampler
 
 ### Implementations
 Check the complete list of implementations on [HTTP/2 spec](https://github.com/http2/http2-spec/wiki/Implementations)
