@@ -7,8 +7,9 @@ Collection of awesome things for HTTP/2.
 - [Development](#development)
 - [Online tools](#online-tools)
 - [Demos](#demos)
-- [Middleware](#middleware)
 - [Load Test](#load-test)
+- [Log Parsers](#log-parsers)
+- [Middleware](#middleware)
 - [Supported CDN](#supported-cdn)
 - [Implementations](#implementations)
 - [Statistics](#statistics)
@@ -48,6 +49,10 @@ Collection of awesome things for HTTP/2.
 ### Load Test
 - [h2load](https://nghttp2.org/documentation/h2load.1.html) - Benchmarking tool for HTTP/2 and SPDY.
 - [jmeter](https://github.com/syucream/jmeter-http2-plugin) - Jmeter HTTP/2 sampler
+
+### Log Parsers
+- [chrome-http2-log-parser](https://github.com/rmurphey/chrome-http2-log-parser) - Generates an HTML table representing Chrome's HTTP/2 net-internals
+- [nghttp2-stream-analyzer](https://github.com/summerwind/nghttp2-stream-analyzer) - The stream analyzer for nghttp2
 
 ### Implementations
 Check the complete list of implementations on [HTTP/2 spec](https://github.com/http2/http2-spec/wiki/Implementations)
